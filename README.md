@@ -1,9 +1,7 @@
 ==============================================================
 Getting-and-Cleaning-Data
 ==============================================================
-run_analysis.R script
-on
-Human Activity Recognition Using Smartphones Dataset
+run_analysis.R script on Human Activity Recognition Using Smartphones Dataset
 ==============================================================
 by Krishnaprakash N 
 ==============================================================
@@ -30,8 +28,6 @@ The original dataset included the following data files:
 - 'test/y_test.txt': Test labels.
 
 - 'test/subject_test.txt': ID's of subjects in the training data
-
-For more information about the "Human Activity Recognition Using Smartphones Dataset Version 1.0" contact: activityrecognition@smartlab.ws
 
 
 A brief description of the script:
